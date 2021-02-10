@@ -1,5 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
+    color: white;
 }
 
 .logo {
@@ -24,6 +25,18 @@ body {
     max-height: 100vh;
 }
 
+.bg-negro {
+    background-color: black;
+}
+
+h2 {
+    border-bottom: 3px solid #5bc0de;
+}
+
+.iconos-quienes {
+    text-align: center;
+    background-color: #5bc0de;
+}
 
 
 @media (max-width: 719px) 
