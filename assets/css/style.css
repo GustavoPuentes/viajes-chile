@@ -42,6 +42,14 @@ h2 {
     height: 168.7px;
 }
 
+.bg-celeste {
+    background-color: #5bc0de;
+}
+
+.fab {
+    color: white !important;
+}
+
 
 @media (max-width: 719px) 
 
